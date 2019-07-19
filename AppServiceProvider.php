@@ -3,7 +3,6 @@
 namespace App\Providers;
 
 use Illuminate\Support\{Facades\Cache,ServiceProvider};
-use lxShaDoWxl\SSO\Providers\SSOServiceProvider;
 use Illuminate\View\View;
 use Closure;
 
